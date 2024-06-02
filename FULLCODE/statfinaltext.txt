@@ -1,0 +1,5 @@
+Escortship number 1 (Type C) was in (7,23)got destroyed by Battleship. Time to destroy is 0.607932
+Escortship number 2 (Type B) was in (43,62)got destroyed by Battleship. Time to destroy is 2.691150
+Escortship number 3 (Type B) was in (62,17)got destroyed by Battleship. Time to destroy is 2.166234
+Escortship number 4 (Type B) was in (72,18) survived.
+Escortship number 5 (Type C) was in (98,12) survived.

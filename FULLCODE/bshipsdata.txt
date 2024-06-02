@@ -1,0 +1,4 @@
+USS Iowa(BB-61),U,50-caliber Mark 7 gun
+MS King George V,M,(356 mm) Mark VII gun
+Richelieu,R,(15 inch) Mle 1935 gun
+Sovetsky Soyuz-class,S,(16 inch) B-37 gun

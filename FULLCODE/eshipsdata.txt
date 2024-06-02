@@ -1,0 +1,5 @@
+A,1936AclassDestroyer,SK C/34 naval gun,0.08,20,R,R,D
+B,Gabbianoclass Corvette,L/47 dualpurpose gun,0.06,30,R,R,R
+C,Matsuclass Destroyer,Type 89 dualpurpose gun,0.07,25,R,R,R
+D,F-class Escort Ships,SK C/32 naval gun,0.05,50,R,R,R
+E,Japanese Kaibōkan,(4.7 inch) naval guns,0.04,70,R,R,R
