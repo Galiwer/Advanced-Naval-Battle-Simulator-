@@ -41,13 +41,16 @@ Escortship number 5 (Type E) was in (56,89)
 Challenges
 
 -Debugging and errors.
+
 Debugging the code and solving the errors were very difficult. I mainly used the
 “printf(“ check 1”);”commands to debug the code. I managed to solve errors by googling
 the error code and by checking the online forums and websites like stackoverflow.
 -Connecting the sub simulations to the main menu.
 I tried making .h files and calling functions in the menu method. It didn't work for me. Then i
 solved the problem by combining all seven codes into one code.
+
 Improvements planning to make.
+
 1-Break code to more simple functions without combining all the six .c files.
 2-Change menu code simulation files to call only the functions in other c code files.
 3-Improve how data prints in the terminal and try to store more data like ranges distance in
@@ -59,6 +62,7 @@ and battle ships fire same time.
 7-Improve escort ships and battleships to have different sailing speeds.
 
 References
+
 https://stackoverflow.com/questions/22330969/using-fscanf-vs-fgets-andsscanf
 https://www.javatpoint.com/random-function-in-c
 https://stackoverflow.com/questions/1675351/typedef-struct-vs-structdefinitions
